@@ -29,7 +29,7 @@ module Spree
         def destroy_before
           @viewable = @doc.viewable
         end
-
+#mmmmmmmmmmmmmmmmmmmmm
     end
   end
 end
